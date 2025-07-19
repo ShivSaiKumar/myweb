@@ -1,0 +1,1 @@
+GitHub is a client server tool, where we can store all our project files in the form of repos.
