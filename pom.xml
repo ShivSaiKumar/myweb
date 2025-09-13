@@ -51,12 +51,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>deploymentRepo</id>
-		    <url>http://18.139.84.115:8081/repository/shivnexussnapshot/</url>
+		    <url>http://18.136.209.246:8081/repository/shivsnapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>deploymentRepo</id>
-		    <url>http://18.139.84.115:8081/repository/shivnexusreleases/</url>
+		    <url>http://18.136.209.246:8081/repository/shivrelease/</url>
 		</repository>
   	</distributionManagement>
 	
