@@ -50,13 +50,13 @@
 	
 	<distributionManagement>
 		 <snapshotRepository>
-		    <id>nexusRepo</id>
-		    <url>http://18.181.197.182:8081/repository/sample-snapshots/</url>
+		    <id>NexusRepo</id>
+		    <url>http://18.139.84.115:8081/repository/shivnexussnapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>nexusRepo</id>
-		    <url>http://18.181.197.182:8081/repository/sample-releases/</url>
+		    <id>NexusRepo</id>
+		    <url>http://18.139.84.115:8081/repository/shivnexusreleases/</url>
 		</repository>
   	</distributionManagement>
 	
