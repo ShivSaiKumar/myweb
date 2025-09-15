@@ -51,12 +51,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://18.136.209.246:8081/repository/shivsnapshot/</url>
+		    <url>http://54.169.36.56:8081/repository/shivsnapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://18.136.209.246:8081/repository/shivrelease/</url>
+		    <url>http://54.169.36.56:8081/repository/shivrelease/</url>
 		</repository>
   	</distributionManagement>
 	
