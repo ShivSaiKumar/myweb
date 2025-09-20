@@ -29,7 +29,7 @@
         </build>	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://18.142.44.68:9000/</sonar.host.url>
+		<sonar.host.url>http://18.141.180.135:9000/</sonar.host.url>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
                 <maven.compiler.source>17</maven.compiler.source>
                 <maven.compiler.target>17</maven.compiler.target>
@@ -56,7 +56,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.169.36.56:8081/repository/shivrelease/</url>
+		    <url>http://54.251.165.202:8081/repository/shivrelease/</url>
 		</repository>
   	</distributionManagement>
 	
